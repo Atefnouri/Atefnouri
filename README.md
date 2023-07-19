@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Typescript Todo App](https://github.com/Atefnouri/todo)
 
-- 🌱 I’m currently learning **Symfony PHP web application framework**
+- 🌱 I’m currently learning **Symfony Framework**
 
 - 💬 Ask me about 🅰**Angular,Laravel**
 
