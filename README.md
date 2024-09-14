@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Symfony Framework**
 
-- 💬 Ask me about 🅰**Angular,Laravel**
+- 💬 Ask me about 🅰**Angular,Laravel** I’m passionate about building scalable, maintainable applications with these frameworks
 
 - 📫 How to reach me **nouriatef.isa@gmail.com**
 
