@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nouriatef.isa@gmail.com**
 
-- ⚡ Fun fact **I have a strong background in UI Design also**
+- 🎨 UI/UX Enthusiast: With a solid background in UI design, I specialize in creating visually appealing and functional interfaces that deliver seamless user experiences. I believe in a design approach that bridges aesthetics with performance
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
