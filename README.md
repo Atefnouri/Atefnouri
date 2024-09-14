@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Atef Nouri</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Tunisia</h3>
-<h3 align="center"> { 🅰 Angular | Laravel }</h3>
+<h3 align="center">{ 🅰 Angular | Laravel | 🚀 DevOps Enthusiast | 🎨 UI Designer }</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/sXZfCxnk/giphy.gif">
