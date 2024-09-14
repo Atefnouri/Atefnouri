@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/atefnouri" target="blank"><img src="https://img.shields.io/twitter/follow/atefnouri?logo=twitter&style=for-the-badge" alt="atefnouri" /></a> </p>
 
-- 🔭 I’m currently working on [Typescript Todo App](https://github.com/Atefnouri/todo)
+- 🔭 I’m currently working on my own [Portfolio](https://github.com/Atefnouri/portfolio)
 
 - 🌱 I’m currently learning **Symfony Framework**
 
