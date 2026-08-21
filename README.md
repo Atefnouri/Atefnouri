@@ -113,7 +113,3 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atefnouri&show_icons=true&locale=en&layout=compact" alt="atefnouri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atefnouri&" alt="atefnouri" /></p>
-
