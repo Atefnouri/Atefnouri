@@ -1,10 +1,5 @@
 <h1 align="center">Atef Nouri</h1>
 <h3 align="center">Senior Full-Stack Developer</h3>
-
-<p align="center">
-  Angular | Spring Boot | Node.js | Apache Kafka | Microservices
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atefnouri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
