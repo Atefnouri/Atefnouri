@@ -2,7 +2,7 @@
 <h3 align="center">Software Development Lead & Senior Full-Stack Architect from Tunisia</h3>
 <h3 align="center">{ 🅰 Angular | Spring Boot | ⚡ Kafka | 🐳 DevOps | 🎨 UI/UX }</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/sXZfCxnk/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/sXZfCxnk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atefnouri&label=Profile%20views&color=0e75b6&style=flat" alt="atefnouri" /> </p>
 
 - 🔭 I’m currently leading the **Software Development Section at the Tunisian Navy (IT & Telecom Division)**, architecting mission-critical real-time surveillance systems and enterprise platforms.
