@@ -34,7 +34,3 @@
 </p>
 
 
-
-<p align="center">
-  <i>Building scalable systems, solving complex engineering challenges, and turning ideas into reliable software.</i>
-</p>
