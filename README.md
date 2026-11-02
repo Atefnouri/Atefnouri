@@ -33,18 +33,7 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
 </p>
 
-### 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/atefnouri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nouriatef.isa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>Building scalable systems, solving complex engineering challenges, and turning ideas into reliable software.</i>
