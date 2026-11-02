@@ -1,28 +1,18 @@
-<h1 align="center">Hi 👋, I'm Atef Nouri</h1>
-<h3 align="center">Senior Full-Stack Developer | Technical Lead | Software Architect</h3>
+<h1 align="center">Atef Nouri</h1>
+<h3 align="center">Senior Full-Stack Developer & Technical Lead</h3>
 
 <p align="center">
-  <strong>Angular | Spring Boot | Node.js | Apache Kafka | Microservices | DevOps</strong>
+  Angular | Spring Boot | Node.js | Apache Kafka | Microservices
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atefnouri&label=Profile%20Views&color=0e75b6&style=flat" alt="atefnouri" />
+  <img src="https://komarev.com/ghpvc/?username=atefnouri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/sXZfCxnk/giphy.gif">
+### About Me
 
-### 👨‍💻 About Me
-
-- 🚀 **10+ years of experience** in software engineering, architecture, and full-lifecycle application delivery.
-- ⚓ Head of the **Software Development Section** within the Tunisian Navy’s IT & Telecommunications Division.
-- 🏗️ Architecting and developing **mission-critical applications, distributed systems, and event-driven microservices**.
-- 🌊 Developing real-time maritime surveillance platforms integrating **Radar and AIS data**.
-- 👥 Leading development teams while actively designing and implementing core software modules.
-- 🐳 Passionate about **DevOps, Linux, Docker, CI/CD, and scalable infrastructure**.
-- 🎨 Combining engineering expertise with **UI/UX design and user-centered development**.
-- 🤖 Exploring AI-assisted engineering with **Claude Code and Antigravity CLI**.
-- 🗣️ Interested in technical leadership, software architecture, public speaking, and technical presentations.
-
+- Senior software developer.
+  
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
